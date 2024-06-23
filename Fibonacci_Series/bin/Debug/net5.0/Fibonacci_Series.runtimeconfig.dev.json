@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\solev\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\solev\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.exe
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.deps.json
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.runtimeconfig.json
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.runtimeconfig.dev.json
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.dll
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.pdb
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.AssemblyInfoInputs.cache
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.AssemblyInfo.cs
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.csproj.CoreCompileInputs.cache
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.dll
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\net5.0\refint\Fibonacci_Series.dll
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.pdb
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.genruntimeconfig.cache
+C:\Daily_Practice\Fibonacci_Series\Fibonacci_Series\obj\Debug\net5.0\ref\Fibonacci_Series.dll
